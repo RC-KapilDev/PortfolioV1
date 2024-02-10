@@ -107,6 +107,10 @@ nav ul li a:hover::after{
 .about-col-2{
     flex-basis: 60%;
 }
+.about-col-2 p{
+    font-size: 16px;
+    font-weight: 500;
+}
 
 .sub-title{
     font-size: 60px;
@@ -114,6 +118,7 @@ nav ul li a:hover::after{
     color: #fff;
 
 }
+
 
 .tab-titles{
     display: flex;
