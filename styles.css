@@ -20,9 +20,6 @@ body{
     background-image: url(images/background.jpg);
     background-size: cover;
     background-position: center;
-    position: sticky;
-
-
 }
 
 .container{
@@ -433,7 +430,7 @@ nav .fas{
 /* Responsive */
 
 
-@media only screen and (max-width:900px){
+@media only screen and (max-width:600px){
     #header{
         background-image: url(images/responsivebg.png);
         
